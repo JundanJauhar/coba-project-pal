@@ -10,7 +10,7 @@ use App\Http\Controllers\QualityAssuranceController;
 use App\Http\Controllers\InspectionController;
 use App\Http\Controllers\PaymentController;
 use App\Http\Controllers\NotificationController;
-
+//propropropropropro
 // Public routes
 Route::get('/', function () {
     return redirect()->route('login');
